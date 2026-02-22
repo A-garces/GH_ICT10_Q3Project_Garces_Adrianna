@@ -1,0 +1,35 @@
+body {
+    color: rgb(0, 0, 0);
+    margin: auto;
+    text-align: center;
+    background-image: linear-gradient(to right, #d4ffd7, #ffcac5, #fffbbe, #d3d4ff);
+
+}
+
+.container {
+   max-width: 800px;
+    padding: 2%;
+    border-radius: 50px;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    outline: 3px solid rgb(255, 167, 178);
+    background-color: white;
+}
+
+.gradecontainer {
+    margin: 2%;
+    padding: 2%;
+    outline: 2px solid rgb(255, 154, 216);
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar {
+    background: rgb(255, 255, 255);
+    padding: 2px;
+}
+
+.form-check-input {
+margin: auto;
+}
+
