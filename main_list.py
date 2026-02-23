@@ -25,6 +25,3 @@ def show_players(event):
         display(formatted_name, target="output")
 
 button = document.querySelector("button")
-
-
-
