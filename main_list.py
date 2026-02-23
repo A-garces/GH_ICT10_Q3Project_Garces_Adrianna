@@ -19,6 +19,9 @@ sapphire_players = [
 def show_players(event):
     
     display("Sapphire: Green Hornets", target="output")
+
+    output = document.getElementById("output")
+    output.innerHTML = ""
     
     for i, name in enumerate (sapphire_players, 1):
         formatted_name = f"{i}) {name}"
@@ -26,3 +29,4 @@ def show_players(event):
 
 button = document.querySelector(".btn-outline-danger")
 button.onclick = show_players
+
