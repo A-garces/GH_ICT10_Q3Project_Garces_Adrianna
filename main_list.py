@@ -27,6 +27,6 @@ def show_players(event):
         formatted_name = f"{i}) {name}"
         display(formatted_name, target="output")
 
-button = document.querySelector(".btn-outline-danger")
-button.onclick = show_players
+button = document.querySelector
+
 
