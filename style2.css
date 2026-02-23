@@ -19,9 +19,8 @@ body {
 .gradecontainer {
     margin: 2%;
     padding: 2%;
-    outline: 2px solid rgb(255, 154, 216);
     border-radius: 10px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 230, 230);
 }
 
 .navbar {
@@ -32,4 +31,5 @@ body {
 .form-check-input {
 margin: auto;
 }
+
 
